@@ -4,8 +4,8 @@ Repository penugasan untuk matakuliah arsip dan perpustakaan digital
 
 # platform
 
-course : [yuros.org](https://yuros.org/course/library-01)
-repot  : [telegram](https://t.me/yuroshub) 
+course : [yuros.org](https://yuros.org/course/library-01)  
+repot  : [telegram](https://t.me/yuroshub)   
 
 
 # penilaian

@@ -79,7 +79,8 @@ berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains d
 
 **D. Analisa Mendalam terhadap Konflik**
   
-  Konflik antara sains dan agama merupakan suatu konflik persaingan tentang perebutan kekuasaan untuk mengatur perilaku manusia. Dimana agama memiliki fungsi sebagai sistem hukum moral yang menciptakan keteraturan sosial, sedangkan sains merupakan alat yang memberikan kekuatan. Dari hal itu lah terjadi suatu hubungan yang fungsional, dimana agama perlu sains untuk mewujudkan nilai-nilainya dalam dunia nyata dan sains juga membutuhkan agama untuk menentukan tujuan akhirnya, karena sains tidak memiliki kekuasaan untuk menentukan apa yang bisa seharusnya dilakukan dengan kekuatannya. 
+  Konflik antara sains dan agama merupakan suatu konflik persaingan tentang perebutan kekuasaan untuk mengatur perilaku manusia. Dalam hal ini, agama didefinisikan sebagai sistem hukum moral yang menciptakan keteraturan sosial, sedangkan sains merupakan upaya sistematis untuk mendapatkan kekuatan. Karena itu lah konflik ini muncul, dimana agama suka melakukan klaim-klaim yang faktual untuk memperkuat hukum moralnya dan kemudian sains membantah klaim tersebut tidak akurat. 
+  Walaupun sering terlibat konflik, sains dan agama memiliki hubungan yang fungsional. Agama memberikan tujuan dan nilai kepada sains dan sains memberikan kekuatan dan sarana. Sains memerlukan agama karena sains membutuhkan pertimbangan untuk penemuan-penemuannya apakah layak atau tidak.
    
 # **BAB III** **PENUTUP**
 

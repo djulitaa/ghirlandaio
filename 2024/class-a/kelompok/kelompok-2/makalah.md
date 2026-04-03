@@ -1,7 +1,8 @@
 # TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS
 
+<img width="855" height="834" alt="image" src="https://github.com/user-attachments/assets/39ffcd41-a538-46bf-86b0-5827cbae9009" />
 
-<img width="1089" height="1298" alt="image" src="https://github.com/user-attachments/assets/98e53a97-09d1-44eb-956e-493018f19746" />
+
 
 
 

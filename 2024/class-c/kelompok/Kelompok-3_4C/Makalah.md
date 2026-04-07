@@ -21,6 +21,7 @@
 
 ---
 
+<br>
 
 <p align="center"><b>KATA PENGANTAR</b></p>
 <p align="justify">
@@ -80,6 +81,9 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 
 **2.6. Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
 
+
+<br>
+<br>
 
 **<p align="center">BAB III</p>**
 **<p align="center">PENUTUP</p>**

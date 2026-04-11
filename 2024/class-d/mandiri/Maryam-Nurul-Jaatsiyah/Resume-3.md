@@ -1,4 +1,4 @@
-# Resume presentasi kelompok 3 "Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source".
+# Resume presentasi kelompok 3 "Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source"
 ## Nama: Maryam Nurul Jaatsiyah 
 ## NIM:12402051030097
 ## Mata Kuliah: Perpustakaan dan Arsip Digital

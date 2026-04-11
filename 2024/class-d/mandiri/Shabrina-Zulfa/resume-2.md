@@ -28,10 +28,10 @@ Kalau kita sambungkan dengan ide John Maynard Keynes, bentuk intervensi negara i
 Dapat disimpulkan bahwa negara punya peran yang sangat besar di perkembangan teknologi era 1960-an, apalagi sebagai pemicu awal lewat suntikan dana riset dan kebijakan pro-inovasi, seperti yang digambarkan di Troublemakers: Silicon Valley’s Coming of Age. Sedangkan dari sudut pandang teori di The General Theory of Employment, Interest and Money, The Wealth of Nations, sampai Das Kapital, terlihat bahwa negara berfungsi sebagai penggerak ekonomi, penyedia infrastruktur dasar, dan elemen kunci dalam sistem yang mempengaruhi kemajuan teknologi. Maka dari itu, lonjakan teknologi waktu itu tidak semata-mata dari pasar atau ide orang perorangan, tapi campuran nyata antara aksi negara yang proaktif dan roda ekonomi yang lebih besar.
 
 ## Referensi
-Leslie Berlin. (2017). Troublemakers: Silicon Valley’s coming of age. Simon & Schuster.
+Leslie Berlin. (2017). *Troublemakers: Silicon Valley’s coming of age*. Simon & Schuster.
 
-John Maynard Keynes. (1936). The general theory of employment, interest and money. Macmillan.
+John Maynard Keynes. (1936). *The general theory of employment, interest and money*. Macmillan.
 
-Adam Smith. (1776). The wealth of nations. W. Strahan and T. Cadell.
+Adam Smith. (1776). *The wealth of nations*. W. Strahan and T. Cadell.
 
-Karl Marx. (1867). Das Kapital. Otto Meissner Verlag.
+Karl Marx. (1867). *Das Kapital*. Otto Meissner Verlag.
